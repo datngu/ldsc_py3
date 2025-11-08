@@ -24,7 +24,7 @@ In order to install the Python dependencies, you will need the [Anaconda](https:
 
 ```
 conda env create --file environment.yml
-conda activate ldsc
+conda activate ldsc_py3
 ```
 
 This will create a Python 3.8 environment with all the necessary dependencies.
